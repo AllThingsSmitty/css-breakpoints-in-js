@@ -1,2 +1,1 @@
-# css-breakpoints-in-js
-A simpler way to keep your project's CSS and JavaScript in sync
+# Importing CSS Breakpoints Into JavaScript
