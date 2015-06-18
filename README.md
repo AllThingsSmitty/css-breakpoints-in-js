@@ -38,8 +38,7 @@ Note that the `::before` pseudo-element is hidden so it doesn't show to the user
 
 This is the magic that queries the property for the current breakpoint. This combination of JavaScript and jQuery uses an object to store the breakpoint value.
 
-```
-javascript
+```javascript
 var breakpoint = {};
 breakpoint.refreshValue = function () {
   this.value = window.getComputedStyle(
