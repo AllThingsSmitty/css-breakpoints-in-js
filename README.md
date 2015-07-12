@@ -8,8 +8,6 @@ A quick and easy solution to this problem is to have your JavaScript import the 
 
 ### Declare Your Breakpoints
 
-For simplicity, this code is straight CSS and can easily be abstracted to Sass or Less.
-
 ```css
 /**
 * These values will not show up in content, but can be 
